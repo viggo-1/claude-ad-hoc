@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/viggo/.codex/**)",
+      "Bash(gh auth:*)",
+      "Bash(git --version)",
+      "Bash(brew install:*)"
+    ]
+  }
+}
